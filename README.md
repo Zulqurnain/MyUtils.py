@@ -132,3 +132,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🤝 Support
 If you encounter any issues or have suggestions, please open an issue in the repository.
+
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
