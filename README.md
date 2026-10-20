@@ -138,3 +138,7 @@ If you encounter any issues or have suggestions, please open an issue in the rep
 **Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
 
 For full portfolio visit: [https://zulqurnainj.com/](https://zulqurnainj.com/)
+
+## Recent changes
+
+- 2026-10-20: Commit history tidied up: every commit is now credited to Zulqurnain.
